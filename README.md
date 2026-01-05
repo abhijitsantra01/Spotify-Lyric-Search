@@ -66,8 +66,8 @@ Run the cells step by step to see the results.
 📸 Sample Output
 
 Data visualizations and analysis outputs are displayed directly inside the notebook.
+<img width="865" height="615" alt="image" src="https://github.com/user-attachments/assets/08ab03de-1700-464a-bee6-cbe406ddba50" />
 
-(Add screenshots here if you want)
 
 🎯 Use Cases
 
